@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comparator.iml" filepath="$PROJECT_DIR$/comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparatorimplementation2/comparator-implementation2.iml" filepath="$PROJECT_DIR$/comparatorimplementation2/comparator-implementation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparatorclient/comparatorclient.iml" filepath="$PROJECT_DIR$/comparatorclient/comparatorclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparatorimplementation/comparatorimplementation.iml" filepath="$PROJECT_DIR$/comparatorimplementation/comparatorimplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparatorplayground/comparatorplayground.iml" filepath="$PROJECT_DIR$/comparatorplayground/comparatorplayground.iml" />
+    </modules>
+  </component>
+</project>

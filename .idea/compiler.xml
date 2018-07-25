@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comparator-implementation2" />
+        <module name="comparatorclient" />
+        <module name="comparatorimplementation" />
+        <module name="comparatorplayground" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comparator-implementation2" target="8" />
+      <module name="comparatorclient" target="1.5" />
+      <module name="comparatorimplementation" target="8" />
+      <module name="comparatorplayground" target="1.5" />
+      <module name="e2e-comparator" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
